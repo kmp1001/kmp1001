@@ -12,7 +12,7 @@
 
 <details>
 <summary><strong>DeflareMamba: Hierarchical Vision Mamba for Contextually
-Consistent Lens Flare Removal（ACM MM 2025 ⎯ 第二作者）</strong></summary>
+Consistent Lens Flare Removal（ACM MM 2025 ⎯ 学生第二作者）</strong></summary>
 
 - 📆 **2024.6 – 2025.4**  
 - 🌐 **会议**：国际顶级会议 ACM MM  
