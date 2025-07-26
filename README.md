@@ -20,7 +20,7 @@ Consistent Lens Flare Removal（ACM MM 2025 ⎯ 学生第二作者）</strong></
 <details>
 <summary><strong>RLQ-Diffusion（under review）</strong></summary>
 
-- 📆 **2025.4 – 2025.10**  
+- 📆 **2025.3 – 2025.7**  
 - ✨ **简介**：  
   - 快速，高泛化能力的 T2I 扩散生成；    
 - 🔧 **我的贡献**：idea 设计、完成实验、论文撰写  
