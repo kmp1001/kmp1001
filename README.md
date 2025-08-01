@@ -1,5 +1,4 @@
 ## Hi Here! 👋  
-北京师范大学人工智能学院 2022 级本科生。 
 
 ---
 
@@ -7,7 +6,7 @@
 
 <details>
 <summary><strong>DeflareMamba: Hierarchical Vision Mamba for Contextually
-Consistent Lens Flare Removal（ACM MM 2025 ⎯ 二作）</strong></summary>
+Consistent Lens Flare Removal（ACM MM 2025）</strong></summary>
 
 - 📆 **2024.6 – 2025.4**  
 - 🌐 **会议**：国际顶级会议 ACM MM  
@@ -27,7 +26,7 @@ Consistent Lens Flare Removal（ACM MM 2025 ⎯ 二作）</strong></summary>
 </details>
 
 <details>
-<summary><strong>“绘闻舫”智能化艺术疗愈平台（中国AI创意赛 国家三等奖，队长）</strong></summary>
+<summary><strong>“绘闻舫”智能化艺术疗愈平台</strong></summary>
 
 - 📆 **2024.6 – 2024.12**  
 - ✨ **简介**：  
@@ -38,7 +37,7 @@ Consistent Lens Flare Removal（ACM MM 2025 ⎯ 二作）</strong></summary>
 </details>
 
 <details>
-<summary><strong>AHFE 论文《The Impact of Secondary Task’s Perceived Value on Individuals' Creativity in Divergent Thinking Tasks》 — 第三作者</strong></summary>
+<summary><strong>AHFE 论文《The Impact of Secondary Task’s Perceived Value on Individuals' Creativity in Divergent Thinking Tasks》 </strong></summary>
 
 - 📆 **2023.4 – 2024.5**  
 - ✨ **简介**：  
