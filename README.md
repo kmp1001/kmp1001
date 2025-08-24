@@ -26,6 +26,15 @@ Consistent Lens Flare Removal（ACM MM 2025）</strong></summary>
 </details>
 
 <details>
+<summary><strong>Spectral reconstruction methods from RGB to hyperspectral imaging（under review）</strong></summary>
+
+- 📆 **2025.5 – 2025.11**  
+- ✨ **简介**：  
+  - 重建高光谱图像；    
+- 🔧 **我的贡献**：idea 设计、完成实验、论文撰写  
+</details>
+
+<details>
 <summary><strong>“绘闻舫”智能化艺术疗愈平台</strong></summary>
 
 - 📆 **2024.6 – 2024.12**  
